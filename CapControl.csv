@@ -1,0 +1,5 @@
+element,terminal,control_type,pt_ratio,ct_ratio,off_setting,on_setting,delay,dead_time,ct_phase,pt_phase,pct_min_kvar
+line.mdv201_hn_2_117_abc28284,1,current,60,60,200,300,15,300,1,1,50
+line.mdv201_hn_2_819_abc8177,1,current,60,60,200,300,15,300,1,1,50
+line.mdv201_hn_2_131_abc8080,1,current,60,60,200,300,15,300,1,1,50
+line.mdv201_da_8_154_abc74439,1,current,60,60,200,300,15,300,1,1,50

@@ -1,0 +1,2 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,spec_type,kvar,kv,r,x
+mdv_sub_1_hsb,true,3,3,60,sourcebus,mdv_sub_1_hsb,wye,z,100,12.47,0

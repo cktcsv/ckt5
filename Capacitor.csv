@@ -1,0 +1,5 @@
+name,enabled,n_phases,n_conds,base_freq,terminal1,terminal2,connection,num_steps,spec_type,kvar,kv,c,r,xl
+mdv201_hn_2_116_abc28285-1,true,3,3,60,28285,,wye,1,kvar,[ 600 ],13.198602,[ 9.13617196733879E-6 ],[ 0 ],[ 0 ]
+mdv201_hn_2_818_abc63707-1,true,3,3,60,63707,,wye,1,kvar,[ 300 ],13.198602,[ 4.568085983669395E-6 ],[ 0 ],[ 0 ]
+mdv201_hn_2_345_abc8081-1,true,3,3,60,8081,,wye,1,kvar,[ 450 ],13.198602,[ 6.852128975504092E-6 ],[ 0 ],[ 0 ]
+mdv201_da_8_153_abc74433-1,true,3,3,60,74433,,wye,1,kvar,[ 600 ],13.198602,[ 9.13617196733879E-6 ],[ 0 ],[ 0 ]

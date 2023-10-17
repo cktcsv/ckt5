@@ -1,0 +1,2 @@
+name,enabled,element,terminal,excess,radial,voltage_only,kva_normal,kva_emerg,peak_currents
+sub,true,line.mdv201_connector,1,true,true,false,0,0,[ 400 400 400 ]
