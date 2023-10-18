@@ -1,5 +1,5 @@
 name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
-ckt5_totalizedmonitor,true,transformer.mdv_sub_1,2,powers,false,false,false,false,true
+ckt5_totalizedmonitor,true,transformer.mdv_sub_1,2,power,false,false,false,false,true
 ckt5_mon,true,line.mdv201_connector,1,voltage_current,false,false,false,true,true
-ckt5_mon_p,true,line.mdv201_connector,1,powers,false,false,false,false,false
+ckt5_mon_p,true,line.mdv201_connector,1,power,false,false,false,false,false
 timer,true,vsource.source,1,solution,false,false,false,false,true
